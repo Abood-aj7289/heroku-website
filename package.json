@@ -1,0 +1,22 @@
+{
+  "name": "heroku-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abood-aj7289/heroku-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abood-aj7289/heroku-website/issues"
+  },
+  "homepage": "https://github.com/Abood-aj7289/heroku-website#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
